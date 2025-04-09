@@ -1,7 +1,7 @@
 <h1>Twixify opiniones (Prueba 2025): ¿Realmente funciona para evitar los detectores de IA?</h1>
 <p><strong>Contributor</strong> | <time datetime="2025-04-09">April 9, 2025</time></p>
 
-<img src="[https://i.ytimg.com/vi/PcdEjpW5qig/maxresdefault.jpg](https://i.ytimg.com/vi/MBl9I_kX9sY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC3_dYmPSmH0ldHAHwy_WLelL5O_A)"
+<img src="https://i.ytimg.com/vi/MBl9I_kX9sY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLC3_dYmPSmH0ldHAHwy_WLelL5O_A"
   alt="Twixify es mejor humanizador que ChatGPT"
   width="800"
   height="450"
